@@ -1,0 +1,73 @@
+
+---------------------------[INICIO]---------------------------
+| Arquivos deletados: [ 0 ]
+| Pastas deletadas: [ 0 ]
+| Items que sobraram: [ 17 ]
+	- 221c0ad4-0666-48d5-bc68-e0c714eb3b83.tmp
+	- 2a4948ed-7070-4aaf-a030-1a162d87f0c3.tmp
+	- 2f589a95-da77-43be-a4e8-931e69bc86ad.tmp
+	- 3f4c1f8d-7bf7-4f87-a3a5-f9206ba9256b.tmp
+	- 40a16e8b-b7d6-408a-80ea-279dfe7192db.tmp
+	- 5c334ad4-def2-48bf-82ab-97d6f7c9a717.tmp
+	- 5c450241-52db-4a6e-997c-d60f76970603.tmp
+	- 668d3f3c-ab6d-4335-9866-bbc0aa4d5446.tmp
+	- 89df9696-cbdf-49ff-b99b-1945149af216.tmp
+	- 8d84ba8c-ee98-4dce-95c4-f7e02620acd7.tmp
+	- 9957ce84-9801-43e0-b70a-9a76b06ff380.tmp
+	- 99bbf5fd-b5b9-4640-af2a-bfd7af06bf23.tmp
+	- a4b2e4c1-9f76-4d6d-9268-efb780037c08.tmp
+	- c22aefd2-2efb-4746-aae5-18e97b014168.tmp
+	- cbedb755-4b50-4d69-9c7b-cddd7ef8f483.tmp
+	- d96e7e8a-35d9-4275-ba49-4345f2cfe20b.tmp
+	- dcff74be-7342-4a61-9191-e429dd158beb.tmp
+---------------------------[FIM]---------------------------
+
+
+---------------------------[INICIO]---------------------------
+| Arquivos deletados: [ 0 ]
+| Pastas deletadas: [ 0 ]
+| Items que sobraram: [ 17 ]
+	- 221c0ad4-0666-48d5-bc68-e0c714eb3b83.tmp
+	- 2a4948ed-7070-4aaf-a030-1a162d87f0c3.tmp
+	- 2f589a95-da77-43be-a4e8-931e69bc86ad.tmp
+	- 3f4c1f8d-7bf7-4f87-a3a5-f9206ba9256b.tmp
+	- 40a16e8b-b7d6-408a-80ea-279dfe7192db.tmp
+	- 5c334ad4-def2-48bf-82ab-97d6f7c9a717.tmp
+	- 5c450241-52db-4a6e-997c-d60f76970603.tmp
+	- 668d3f3c-ab6d-4335-9866-bbc0aa4d5446.tmp
+	- 89df9696-cbdf-49ff-b99b-1945149af216.tmp
+	- 8d84ba8c-ee98-4dce-95c4-f7e02620acd7.tmp
+	- 9957ce84-9801-43e0-b70a-9a76b06ff380.tmp
+	- 99bbf5fd-b5b9-4640-af2a-bfd7af06bf23.tmp
+	- a4b2e4c1-9f76-4d6d-9268-efb780037c08.tmp
+	- c22aefd2-2efb-4746-aae5-18e97b014168.tmp
+	- cbedb755-4b50-4d69-9c7b-cddd7ef8f483.tmp
+	- d96e7e8a-35d9-4275-ba49-4345f2cfe20b.tmp
+	- dcff74be-7342-4a61-9191-e429dd158beb.tmp
+---------------------------[FIM]---------------------------
+
+
+---------------------------[INICIO]---------------------------
+| Arquivos deletados: [ 0 ]
+| Pastas deletadas: [ 0 ]
+| Items que sobraram: [ 17 ]
+	- 221c0ad4-0666-48d5-bc68-e0c714eb3b83.tmp
+	- 2a4948ed-7070-4aaf-a030-1a162d87f0c3.tmp
+	- 2f589a95-da77-43be-a4e8-931e69bc86ad.tmp
+	- 3f4c1f8d-7bf7-4f87-a3a5-f9206ba9256b.tmp
+	- 40a16e8b-b7d6-408a-80ea-279dfe7192db.tmp
+	- 5c334ad4-def2-48bf-82ab-97d6f7c9a717.tmp
+	- 5c450241-52db-4a6e-997c-d60f76970603.tmp
+	- 668d3f3c-ab6d-4335-9866-bbc0aa4d5446.tmp
+	- 89df9696-cbdf-49ff-b99b-1945149af216.tmp
+	- 8d84ba8c-ee98-4dce-95c4-f7e02620acd7.tmp
+	- 9957ce84-9801-43e0-b70a-9a76b06ff380.tmp
+	- 99bbf5fd-b5b9-4640-af2a-bfd7af06bf23.tmp
+	- a4b2e4c1-9f76-4d6d-9268-efb780037c08.tmp
+	- c22aefd2-2efb-4746-aae5-18e97b014168.tmp
+	- cbedb755-4b50-4d69-9c7b-cddd7ef8f483.tmp
+	- d96e7e8a-35d9-4275-ba49-4345f2cfe20b.tmp
+	- dcff74be-7342-4a61-9191-e429dd158beb.tmp
+---------------------------[FIM]---------------------------
+
+
