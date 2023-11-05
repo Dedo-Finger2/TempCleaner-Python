@@ -3,6 +3,7 @@ import os
 from os.path import isfile, isdir
 import shutil
 from datetime import date
+from Functions.directories import directories_path as directories
 
 deleted_files = []
 deleted_folders = []
@@ -58,8 +59,8 @@ def get_all_items(directory: str):
     return all_items
 
 
-def add_directory(directory_list: list, path: str):
-    directory_list.append(path)
+def add_directory(path: str):
+    directories.append(path)
 
 
 def log():
